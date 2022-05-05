@@ -1,0 +1,6 @@
+Reading character starting at index 0 to 100 with an interval of 29
+
+Reading character at index 0   : data = A : hit count = 0   : miss count = 1   : read data count = 1
+Reading character at index 29  : data = a : hit count = 1   : miss count = 1   : read data count = 1
+Reading character at index 58  : data = A : hit count = 1   : miss count = 2   : read data count = 2
+Reading character at index 87  : data =   : hit count = 1   : miss count = 3   : read data count = 3

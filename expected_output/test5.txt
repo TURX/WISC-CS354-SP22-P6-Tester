@@ -1,0 +1,12 @@
+Reading character starting at index 0 to 1000 with an interval of 100
+
+Reading character at index 0   : data = A : hit count = 0   : miss count = 1   : read data count = 1
+Reading character at index 100 : data =   : hit count = 0   : miss count = 2   : read data count = 2
+Reading character at index 200 : data =   : hit count = 0   : miss count = 3   : read data count = 3
+Reading character at index 300 : data = e : hit count = 0   : miss count = 4   : read data count = 4
+Reading character at index 400 : data = i : hit count = 0   : miss count = 5   : read data count = 5
+Reading character at index 500 : data = e : hit count = 0   : miss count = 6   : read data count = 6
+Reading character at index 600 : data =   : hit count = 0   : miss count = 7   : read data count = 7
+Reading character at index 700 : data = p : hit count = 0   : miss count = 8   : read data count = 8
+Reading character at index 800 : data = h : hit count = 0   : miss count = 9   : read data count = 9
+Reading character at index 900 : data =   : hit count = 0   : miss count = 10  : read data count = 10
